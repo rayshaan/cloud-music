@@ -10,11 +10,9 @@
 
 运行项目
 
-1.git 克隆https://gitee.com/rayshaan/cloud-music.git
+1.npm install  
 
-2.npm install  
-
-3.npm run serve
+2.npm run serve
 
 
 注：如果数据加载不出来，可能是接口更换。
