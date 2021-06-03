@@ -6,6 +6,7 @@
 - Vue-Router
 - Element-UI
 - ES6
+- flex
 - Scss
 
 运行项目
